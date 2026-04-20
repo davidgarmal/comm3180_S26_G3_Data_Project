@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data_analysis/dataset_cleaning_ignore.ipynb
