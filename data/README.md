@@ -7,6 +7,7 @@ For our final project we used the following data organized in this file. The con
 - `zip_county_092022.csv` contains a crosswalk between ZIP codes and counties.
 - `scholarship_and_ME.xlsx` contains data on scholarships
 - `athletic_scholarship_table.xlsx` contains data on athletic scholarships
+- `division.I.II.III.diversity.xlsx` contains data per athletic division of the NCAA.
 - `Glynn_data` folder contains the following data files concerning the College Scorecard
     - `CollegeScorecardDataDictionary.xlsx` contains a dictionary for the data of the following files.
     - `clean_21_data.csv` contains the clean data on the 2020-2021 school year.
