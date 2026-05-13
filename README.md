@@ -1,4 +1,4 @@
-## Group project for COMM3180 _Stories from data_ (Spring 2026)
+## Diversity in Higher Ed: What does it say about new affirmative action policies?
 
 # Overview
 
